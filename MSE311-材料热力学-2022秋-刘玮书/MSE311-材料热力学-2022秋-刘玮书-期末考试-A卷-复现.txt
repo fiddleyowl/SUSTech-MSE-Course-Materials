@@ -1,0 +1,54 @@
+材料热力学 2022秋 期末考试 A卷
+
+p. 就是复习ppt里的页码
+
+1. 用热力学解释滑冰时为什么要穿冰鞋。 p.8
+
+2. 写出吉布斯相率，解释每一个字母表示什么。用吉布斯相率解释三相点。
+
+3. 写出混合吉布斯自由能的变化。(p. 34)，fugacity的定义，在什么时候fugacity趋于压强？
+
+4. austenite, martensite, bainite和pearlite，哪一种更适合用来做 blade，哪一种适合用来做spring？给了这个图（p.183 left)，把他们的？？在图里标出来【这真没复习到，不知道在说什么】
+
+5. 相图：给了 p. 78左边的图（上下两个都有）。问A和B的标准态分别是什么？解释p. 78红色标粗的物理意义以及p. 79蓝色标粗的物理意义
+
+6. Quiz 7的第二题 (Henry's Law)。
+
+7. 相图：给了 p. 137的两张图，要求在两张形如 (p.141 右侧图的左小图) 的图上标出各个相、以及画出(p. 138) 的左图
+
+8. surface energy 的定义式，解释每一项各表示什么。 (p. 144)
+
+9. 画出nucleation的过程中吉布斯自由能随半径的改变图，标注出critical size，解释critical size的物理意义。 从subcooling的角度出发，spontaneous nucleation 和 heterogenous nucleation 的区别？
+
+10. sintering指的是什么？(p.4) 有几个步骤(p. 8)，以及neck growth都有哪些mechanism (p. 12) 【这里的p. 都是sintering PPT里的页码】
+
+11. 给了van der waals equation。
+(1) 解释里面a和b的物理含义
+(2) 推导critical point的Pcr, Tcr, Vcr
+(3) 推导 Law of Corresponding State
+(4) 给了二氧化碳的Tcr和Pcr，用算出来的表达式计算参数a和b
+
+12. 和p.59的题几乎一模一样
+
+13. 和20年秋期末复现p.9的题(regular solution)几乎一模一样，给了饱和蒸气压关于温度的表达式
+
+14. 和作业11的第五题题干几乎一模一样，给了你熔化开始2420 K, 结束2440 K.
+(1) 求Al2O3和Cr2O3的一个自由能【Appendix里的公式里的那个自由能】
+(2) 最先融化的liquid物质比【作业中第2小问】
+(3) 最后融化的solid物质比【作业中第4小问】
+
+15. 和p. 159的题几乎一模一样（扩散）
+
+
+Appendix：
+
+常数给了
+Avogadro Constant NA
+Boltzmann Constant kB
+Gas Constant R
+
+公式给了
+p. 85的两个相图的公式，以及p. 78最下面自由能和H的关系
+
+表格给了
+erf(x)，从x=0到3的各种值
