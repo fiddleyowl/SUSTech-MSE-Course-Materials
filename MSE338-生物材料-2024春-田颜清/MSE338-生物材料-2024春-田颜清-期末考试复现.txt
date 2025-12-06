@@ -1,0 +1,10 @@
+生物材料2024春期末考试复现
+1. 什么是 Wright and Giemsa staining？都用的什么材料，染成什么色，染哪个organelle？
+2. neutrophil activation分四步，是哪四步？
+3. 常见的三种cell culture morphology测试biocompatibility
+4. MTT assay，Calcein AM，HE staining和另外两个哪个是morphology，emission，colorimetric，absorbance
+5. ”typical probe materials”（Gd，18F，19F，Ca，Tc，Ba），有可能考的是哪种仪器，PET、MRI之类
+6. 给了一堆基团，问哪些photosensitive，哪些pH sensitive，哪些temperature sensitive
+7. 给了一张图，横轴是（BE.eV，最左侧114，最右侧94），纵轴没单位。两条曲线，一条曲线有两个峰，一条只有一个。问这个图是哪种表征方法，哪条线给你更多surface information，判断并画图说明。
+8. 要求写PLGA和pHEMA和合成方式（20分）
+9. 设计一种nanomaterials，包括“drugs”，“fluorophore”和”targeting groups”（原文表述），30分
